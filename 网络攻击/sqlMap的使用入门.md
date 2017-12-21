@@ -69,7 +69,9 @@ sqlmap -r “c:\tools\request.txt” -p “username” –dbms mysql 指定usern
 sqlmap.py -u "http://localhost:8080/ECP/HomeBulletinController.do?method=searchBulletinAction&areaCode=120000"
 ```
 
+如果出现下图中的payload，则证明存在攻击漏洞
 
+![sd](http://p1aoqp63y.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20171221131107.png)
 
 
 
