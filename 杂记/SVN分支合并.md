@@ -101,9 +101,7 @@ tags是记录一些重要的里程碑版本,主要用户发布版本用.
 
 
 
-![2](http://p1aoqp63y.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20180422221355.png)
-
-
+![1](http://p1aoqp63y.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20180422221355.png)
 
 
 
@@ -111,13 +109,9 @@ tags是记录一些重要的里程碑版本,主要用户发布版本用.
 
 
 
+![20](http://p1aoqp63y.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20180422221422.png)
 
 
-
-
-
-
-![2](http://p1aoqp63y.bkt.clouddn.com/QQ%E6%88%AA%E5%9B%BE20180422221422.png)
 
 
 
